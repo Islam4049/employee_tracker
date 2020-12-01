@@ -6,6 +6,7 @@ const cTable = require('console.table');
 const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
+    port: 3306,
     password: "password",
     database: "employee_trackerdb"
   });
@@ -13,9 +14,12 @@ const connection = mysql.createConnection({
 
 //========== Connection ID ==========================//
 connection.connect(function(err) {
-    if (err) throw err
-    console.log("Connected as Id" + connection.threadId)
-    startPrompt();
+  if (err) {
+    console.error("error connecting: " + err.stack);
+    return;
+  }
+
+  console.log("connected as id " + connection.threadId);
 });
 //================== Initial Prompt =======================//
 function startPrompt() {
