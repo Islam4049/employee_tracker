@@ -11,7 +11,7 @@
   
   *** OR ***
  * If you need to run the application just follow my repo and install , you'll get it ! :
- * https://islam4049.github.io/employee_tracker/
+ * https://github.com/Islam4049/employee_tracker.git
   
 
 ## Technologies Used
@@ -30,8 +30,9 @@
 * Node.js
 * npm install
 * inquirer
-* Authors
-[Md Ariful Islam](https://www.github.com/Islam4049)
+
+## Authors
+* [Md Ariful Islam](https://www.github.com/Islam4049)
 
 ## Contact:
 If you need to contact me please hit the email button and feel free to ask any question.=>
