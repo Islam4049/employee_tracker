@@ -36,7 +36,7 @@
 
 ## Contact:
 If you need to contact me please hit the email button and feel free to ask any question.=>
-[Email](mdislam4049@gmail.com)
+mdislam4049@gmail.com
 
 
 ## About
