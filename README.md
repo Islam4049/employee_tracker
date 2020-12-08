@@ -1,4 +1,5 @@
-# Employee_Tracker
-* Walk Through the  process:
+# Employee_Tracker....
 
-![Employee_Tracker](https://drive.google.com/file/d/11kMv4RU-l8TPLHOOSN0UZTcKMoBlVN7s/view?usp=sharing)
+## Walk thrugh the process:
+[Video of the Process](https://drive.google.com/file/d/11kMv4RU-l8TPLHOOSN0UZTcKMoBlVN7s/view?usp=sharing)
+
