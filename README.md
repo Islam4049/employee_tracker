@@ -9,9 +9,9 @@
 * Run node server.js in your VS Code to start the prompts that will walk you through the verious 
   tasks you can perform with this application.
   
- ****** OR ***
+  *** OR ***
  * If you need to run the application just follow my repo and install , you'll get it ! :
- * [Employee_Tracker](https://islam4049.github.io/employee_tracker/)
+ * https://islam4049.github.io/employee_tracker/
   
 
 ## Technologies Used
@@ -34,7 +34,7 @@
 [Md Ariful Islam](https://www.github.com/Islam4049)
 
 ## Contact:
-If you need to contact me please hit the email button and feel free to ask any question.
+If you need to contact me please hit the email button and feel free to ask any question.=>
 [Email](mdislam4049@gmail.com)
 
 
