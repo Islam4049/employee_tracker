@@ -10,8 +10,9 @@
   tasks you can perform with this application.
   
  ****** OR ***
- * If you need to run the application just follow my repo and install , you'll get it !
- [Employee_Tracker](git@github.com:Islam4049/employee_tracker.git)
+ * If you need to run the application just follow my repo and install , you'll get it ! :
+ * [Employee_Tracker](https://islam4049.github.io/employee_tracker/)
+  
 
 ## Technologies Used
 * MySQL: Relational database management system based on SQL – Structured Query Language,
